@@ -1,0 +1,1 @@
+Variables, if, else, while folder consists of file scripts that executes certain commands in relation to variables, conditional statements such as if, else, for, while and the likes of them. Below are the name of the files scripts and what their ouputs are when executed by a user
