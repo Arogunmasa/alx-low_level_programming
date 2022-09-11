@@ -1,16 +1,18 @@
 #include <stdio.h>
-
+#include <stdlib.h>
+#include <time.h>
 /**
- * main - prints all single digit number of base
- * 10 starting from 0, followed by a new line
+ * main - Entry point
+ *
  * Return: Always 0 (success)
  */
 int main(void)
 {
-	int n;
+	int i;
 
-	for (n = 0; n < 10; n++)
-		printf("%d", n);
+	for (i = 0; i < 10; i++)
+		printf("%d", i);
 	printf("\n");
+
 	return (0);
 }
