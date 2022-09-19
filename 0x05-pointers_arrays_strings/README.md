@@ -1,0 +1,1 @@
+pointersbarray strinfs
